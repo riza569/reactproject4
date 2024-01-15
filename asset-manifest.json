@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactproject4/static/css/main.df2050ec.css",
+    "main.js": "/reactproject4/static/js/main.9e958bb5.js",
+    "index.html": "/reactproject4/index.html",
+    "main.df2050ec.css.map": "/reactproject4/static/css/main.df2050ec.css.map",
+    "main.9e958bb5.js.map": "/reactproject4/static/js/main.9e958bb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df2050ec.css",
+    "static/js/main.9e958bb5.js"
+  ]
+}
