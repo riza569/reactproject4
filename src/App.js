@@ -9,7 +9,7 @@ export default function App(){
         {...x}
         />
     ))
-return(
+return( 
     <div>
 <Nav/>
 <div className='main'>
